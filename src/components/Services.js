@@ -11,7 +11,7 @@ const services = [
   {
     name: 'UI/UX Design',
     description:
-      'You see this? This pretty?I can make this for you, like... if you hire me or somnething.',
+      'You see this? This pretty?I can make this for you, like... if you hire me or something.',
     
   },
   {
