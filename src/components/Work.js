@@ -31,7 +31,10 @@ const Work = () => {
               <p className='max-w-sm mb-16'>
                 Check out samples of what I can do
               </p>
-              <button className='btn btn-sm'>View all projects</button>
+              {/* button */}
+              <a href='https://github.com/sshann30'>
+                <button className='btn btn-sm'>View all projects</button>
+              </a>
             </div>
             {/* image */}
             <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>

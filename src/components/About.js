@@ -40,6 +40,7 @@ const About = () => {
             <p className='mb-6'>
             I am a graduate of UNCC Full Stack Development boot camp and am well versed in the most popular and relevant coding languages. My level of hard work and commitment is exemplified by achieving an academic scholarship to the University of South Carolina and the rank of Eagle Scout.
             </p>
+            <br></br>
             {/* stats */}
             <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
               <div>

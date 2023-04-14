@@ -11,7 +11,7 @@ const services = [
   {
     name: 'UI/UX Design',
     description:
-      'You see this? This pretty?I can make this for you, like... if you hire me or something.',
+      'I can make a similar experience for you. We should work together',
     
   },
   {
@@ -45,7 +45,10 @@ const Services = () => {
             <h3 className='h3 max-w-[455px] mb-16'>
               I've been a Software Engineer since 2019.
             </h3>
-            <button className='btn btn-sm'>See my work</button>
+            {/* button */}
+          <a href='https://www.linkedin.com/in/steve-shannon-03aa8b59/'>
+            <button className='btn btn-sm' >Work with me</button>
+          </a>
           </motion.div>
           {/* services */}
           <motion.div

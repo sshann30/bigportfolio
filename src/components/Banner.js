@@ -36,6 +36,7 @@ const Banner = () => {
               viewport={{ once: false, amount: 0.7 }}
               className='mb-6 text-[36px] lg:text-[60px] font-secondary font-semibold uppercase leading-[1]'
             >
+              <br></br>
               <span className='text-white mr-4'>I am a</span>
               <TypeAnimation
                 sequence={[
@@ -54,6 +55,7 @@ const Banner = () => {
               <br></br>
               <span className='text-white mr-4'> Developer</span>
             </motion.div>
+            <br></br>
             <motion.p
               variants={fadeIn('up', 0.5)}
               initial='hidden'
@@ -70,6 +72,9 @@ const Banner = () => {
               Modern frontend frameworks like React/Angular
 
             </motion.p>
+
+            <br></br>
+
             {/* socials */}
             <motion.div
               variants={fadeIn('up', 0.7)}

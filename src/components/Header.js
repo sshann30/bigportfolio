@@ -11,11 +11,12 @@ const Header = () => {
           <a href='#'>
             <img src={Logo} alt='' width="150" height="150" />
           </a>
+
           {/* button */}
-          <button className='btn btn-sm' href='https://www.linkedin.com/in/steve-shannon-03aa8b59/'>Work with me</button>
-        
-          
-          
+          <a href='https://www.linkedin.com/in/steve-shannon-03aa8b59/'>
+            <button className='btn btn-sm' >Work with me</button>
+          </a>
+
         </div>
       </div>
     </header>
