@@ -11,7 +11,7 @@ const services = [
   {
     name: 'UI/UX Design',
     description:
-      'I can make a similar experience for you. We should work together',
+      'I can make a similar experience for you. We should work together.',
     
   },
   {
